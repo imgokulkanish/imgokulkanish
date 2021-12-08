@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gokul Kanish</h1>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gokul Kanish
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/imgokulkanish/count.svg" />
@@ -9,6 +8,7 @@
 - 🔭 I’m currently learning on MERN Stack
 - 🌱 I’m currently preparing for **interviews**
 - 💬 Ask me about MERN 
+- 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
 - 😄 Pronouns: ...am a typical developer who turns coffee into code!
 <!-- - ⚡ Fun fact: ... -->
 
