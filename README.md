@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Gokul Kanish
 
 [![Github](https://img.shields.io/github/followers/imgokulkanish?label=Follow&style=social)](https://github.com/imgokulkanish)
-[![Linkedin]
+[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-kanish-baa645120/)]
 
 
 
