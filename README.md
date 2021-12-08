@@ -1,5 +1,10 @@
-<h1>Hi 👋, I'm Gokul Kanish</h1>
+<h1 align="center">Hi 👋, I'm Gokul Kanish</h1>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/imgokulkanish/count.svg" />
+</p>
 
 - 🔭 I’m currently learning on MERN Stack
 - 🌱 I’m currently preparing for **interviews**
