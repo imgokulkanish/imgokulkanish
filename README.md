@@ -1,13 +1,11 @@
 <h1>Hi 👋, I'm Gokul Kanish</h1>
 
 
-- 🔭 I’m currently working on MERN Projects
+- 🔭 I’m currently learning on MERN Stack
 - 🌱 I’m currently preparing for **interviews**
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about MERN 
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...am a typical developer who turns coffee into code!
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
 ## About me 
 I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJS.
@@ -16,7 +14,10 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 ### "Code until you find your solution"!
 ![run](https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif)
 
-## Stack I work with
+## Tools and Languages I have worked with
+<code><img height="50" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
+<code><img height="50" src="https://static.cdnlogo.com/logos/c/18/css.svg"></code>
+<code><img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -27,6 +28,8 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 <code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+
 
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
 <p align="center">
@@ -58,3 +61,8 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 </div>
 
 <a href="https://github.com/imgokulkanish/github-readme-activity-graph"><img alt="gokulkanish Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imgokulkanish&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a>
+
+<!--  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imgokulkanish" alt="WakaTime" />
+  </p>
+ -->
