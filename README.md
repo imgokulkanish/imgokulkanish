@@ -1,25 +1,13 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Gokul Kanish</h1>
 
-<!--
-**imgokulkanish/imgokulkanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on MERN Projects
+- 🌱 I’m currently preparing for **interviews**
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about MERN 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...am a typical developer who turns coffee into code!
 - ⚡ Fun fact: ...
--->
-# Gokul Kanish
-
-[![Github](https://img.shields.io/github/followers/imgokulkanish?label=Follow&style=social)](https://github.com/imgokulkanish)
-[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gokul-kanish-baa645120/)]
-
-
 
 ## About me 
 I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJS.
@@ -40,21 +28,33 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
-
-### My Github Stats
-
+<p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/gokul-kanish-baa645120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokulkanish" height="30" width="30" /></a>
+<a href="https://github.com/imgokulkanish" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imgokulkanish" height="30" width="30" /></a>
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imgokulkanish" alt="imgokulkanish" /> </p>
 <br>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=imgokulkanish&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imgokulkanish&hide=css,java,html&theme=tokyonight">
-</p>
+<a href="https://github.com/imgokulkanish">
+    <img src="https://github-readme-stats.vercel.app/api?username=imgokulkanish&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
+</a>
+<a href="https://github.com/imgokulkanish">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgokulkanish&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imgokulkanish" alt="Views" /> </p>
 
-### GITHUB TROPHIES
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imgokulkanish)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imgokulkanish&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+    
+</div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imgokulkanish)
+<div align="center">
 
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=imgokulkanish&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/imgokulkanish)
+
+</div>
+
+<a href="https://github.com/imgokulkanish/github-readme-activity-graph"><img alt="gokulkanish Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imgokulkanish&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a>
