@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/imgokulkanish/count.svg" />
 </p>
 
-- 🔭 I’m currently learning on MERN Stack
+- 🔭 I’m currently learning MERN Stack
 - 🌱 I’m currently preparing for **interviews**
 - 💬 Ask me about MERN 
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
