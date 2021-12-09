@@ -9,7 +9,7 @@
 - 🌱 I’m currently preparing for **interviews**
 - 💬 Ask me about MERN 
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
-- 😄 Pronouns: ...am a typical developer who turns coffee into code!
+- 😄 Pronouns: am a typical developer who turns coffee into code!
 <!-- - ⚡ Fun fact: ... -->
 
 ## About me 
@@ -41,10 +41,6 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 <a href="https://www.linkedin.com/in/gokul-kanish-baa645120/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gokulkanish" height="30" width="30" /></a>
 <a href="https://github.com/imgokulkanish" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="imgokulkanish" height="30" width="30" /></a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imgokulkanish" alt="imgokulkanish" /> </p>
-<br>
-
 <a href="https://github.com/imgokulkanish">
     <img src="https://github-readme-stats.vercel.app/api?username=imgokulkanish&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
 </a>
