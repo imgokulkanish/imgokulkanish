@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning MERN Stack
 - 🌱 I’m currently preparing for **interviews**
-- 💬 Ask me about MERN 
+- 💬 Ask me about REACT
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
 - 😄 Pronouns: am a typical developer who turns coffee into code!
 <!-- - ⚡ Fun fact: ... -->
