@@ -63,7 +63,7 @@ I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJ
 
 <a href="https://github.com/imgokulkanish/github-readme-activity-graph"><img alt="gokulkanish Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imgokulkanish&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a>
 
-<!--  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+ <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imgokulkanish" alt="WakaTime" />
   </p>
- -->
+
