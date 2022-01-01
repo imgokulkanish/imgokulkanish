@@ -5,9 +5,9 @@
   <img src="https://profile-counter.glitch.me/imgokulkanish/count.svg" />
 </p>
 
-- 🔭 I’m currently learning MERN Stack
-- 🌱 I’m currently preparing for **interviews**
-- 💬 Ask me about REACT
+- 🔭 I’m currently learning Angular
+<!-- - 🌱 I’m currently preparing for **interviews** -->
+- 💬 Ask me about MERN
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
 - 😄 Pronouns: am a typical developer who turns coffee into code!
 <!-- - ⚡ Fun fact: ... -->
