@@ -6,14 +6,13 @@
 </p>
 
 - 🔭 I’m currently learning Angular
-<!-- - 🌱 I’m currently preparing for **interviews** -->
 - 💬 Ask me about MERN
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
 - 😄 Pronouns: am a typical developer who turns coffee into code!
 <!-- - ⚡ Fun fact: ... -->
 
 ## About me 
-I'm a full stack developer. I like to work with React,  Redux, MongoDB and NodeJS.
+I'm a full stack developer. I like to work with React, Redux, Angular, MongoDB and NodeJS.
 
 
 ### "Code until you find your solution"!
