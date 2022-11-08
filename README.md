@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/imgokulkanish/count.svg" />
 </p>
 
-- 🔭 I’m currently learning Angular
+- 🔭 I’m currently Working as a Full Stack Developer (React,Angular,NestJS,Postgresql)
 - 💬 Ask me about MERN
 - 💼 any freelance work? do reach, [email](mailto:gokulkanishbe@gmail.com) :)
 - 😄 Pronouns: am a typical developer who turns coffee into code!
